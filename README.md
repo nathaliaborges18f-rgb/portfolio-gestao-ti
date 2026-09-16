@@ -58,7 +58,16 @@ Tenho interesse em continuar evoluindo na área de tecnologia, aprofundando meus
 
 Meu objetivo é construir uma carreira sólida em **Tecnologia da Informação**, unindo minha formação em Gestão de TI ao meu interesse crescente por **Cibersegurança**. 🛡️💻
 
----
+## 📂 Projetos
+
+### 🌐 Projeto 01 — Simulação de Rede Doméstica
+
+**Ferramenta:** Cisco Packet Tracer
+
+Projeto desenvolvido durante meus estudos em Redes de Computadores, com a criação e simulação de uma rede doméstica no Cisco Packet Tracer.
+
+🔗 **[Ver projeto completo](./Projetos/01-Rede-Domestica-Cisco-Packet-Tracer/)**
+
 
 ## 📬 Contato
 
